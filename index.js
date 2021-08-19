@@ -28,7 +28,7 @@ function makeSound(key) {
   switch (key) {
 
     case "a":
-      var tom2 = new Audio("sounds/brad.mp3");
+      var tom2 = new Audio("sounds/sean-russia.mp3");
       tom2.play();
       break;
 
@@ -38,7 +38,7 @@ function makeSound(key) {
       break;
 
     case "c":
-      var tom2 = new Audio("sounds/sean-train.mp3");
+      var tom2 = new Audio("sounds/rock.mp3");
       tom2.play();
       break;
 
