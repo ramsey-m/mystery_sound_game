@@ -28,18 +28,18 @@ function makeSound(key) {
   switch (key) {
 
     case "a":
-      var tom2 = new Audio("sounds/sean-russia.mp3");
-      tom2.play();
+      var train = new Audio("sounds/sean-russia.mp3");
+      train.play();
       break;
 
     case "b":
-      var tom2 = new Audio("sounds/sean-boat.mp3");
-      tom2.play();
+      var boat = new Audio("sounds/sean-boat.mp3");
+      boat.play();
       break;
 
     case "c":
-      var tom2 = new Audio("sounds/rock.mp3");
-      tom2.play();
+      var rock = new Audio("sounds/rock.mp3");
+      rock.play();
       break;
 
 
